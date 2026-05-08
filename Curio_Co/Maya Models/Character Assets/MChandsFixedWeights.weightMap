@@ -1,0 +1,15 @@
+// Exported skin weight map file
+// 
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:MIDDLE_JOINT	ARMS_MIDDLE_JOINT.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:ElbowL1	ARMS_ElbowL1.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:WristL	ARMS_WristL.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:WristL|MC_Hands_Fixed:FingerTipAlphaR	ARMS_FingerTipAlphaR.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:RingL	ARMS_RingL.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:IndexL	ARMS_IndexL.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:ThumbL	ARMS_ThumbL.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:ElbowR	ARMS_ElbowR.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:WristR	ARMS_WristR.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:WristR|MC_Hands_Fixed:FingerTipAlphaR	ARMS_FingerTipAlphaR_9.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:ringR	ARMS_ringR.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:indexR	ARMS_indexR.iff
+|MC_Hands_Fixed:ARMS	MC_Hands_Fixed:ThumbR	ARMS_ThumbR.iff
